@@ -1,0 +1,9 @@
+{
+  "name": "AgriNext 2.0 – Adaptive Agro-Intelligence Network",
+  "description": "An AI-powered agricultural assistant that provides pest and disease detection through image analysis, smart fertilizer and irrigation plans, and a voice-enabled crop advisory service to help farmers make informed decisions.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
